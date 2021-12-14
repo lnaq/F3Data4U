@@ -1,3 +1,15 @@
 # Why was this made?
 
-Because I decided to make a few mouse clicks!:)
+Why not.
+
+# How does this work?
+
+A Reddit bot is collecting the different data from lots of subbreddits.
+
+# Will the bot be public?
+
+No.
+
+# Is this project still in progress?
+
+No.
